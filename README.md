@@ -1,0 +1,2 @@
+# No-show-appointments-Dataset-Analysis
+"No-show appointments Datataset" collects information about medical appointments in Brazil in an approach to predict the probability of a patient attending an appointment through 14 different features provided in this dataset.  The main focus of this study is to find trends among the patients who didn't attend their appointments and how they differed from those who did.
